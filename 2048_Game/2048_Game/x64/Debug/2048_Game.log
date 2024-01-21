@@ -1,3 +1,4 @@
 ﻿  2048_Game.cpp
-C:\Users\Aleks\Documents\2048-Game\2048_Game\2048_Game\2048_Game.cpp(228,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Aleks\Documents\2048-Game\2048_Game\2048_Game\2048_Game.cpp(282,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aleks\Documents\2048-Game\2048_Game\2048_Game\2048_Game.cpp(406,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   2048_Game.vcxproj -> C:\Users\Aleks\Documents\2048-Game\2048_Game\x64\Debug\2048_Game.exe
